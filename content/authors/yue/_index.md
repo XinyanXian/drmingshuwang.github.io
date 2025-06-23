@@ -7,7 +7,7 @@ name_pronunciation:
 
 # Full name (for SEO)
 first_name: Yue
-last_name: Yue
+last_name: y
 
 # Status emoji
 status:
